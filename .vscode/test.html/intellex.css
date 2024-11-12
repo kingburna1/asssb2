@@ -1,0 +1,106 @@
+.one{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.one1{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 18px;
+    gap: 5;
+
+}
+#nth-child{ background-color: rebeccapurple;}
+    
+#me{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white
+}
+#you{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white
+}
+.two1{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+    
+}
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    padding: 10px; 
+}
+.last{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.three{
+    display: flex;
+    margin-top: 110px;
+    background-color: white;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+
+
+}
+.color{
+    background-color: blue;
+    
+}
+
+
+.a{
+    text-decoration-line: none;
+}
+.four{
+    background-color: grey;
+    color: black;
+    border: 5px  ;
+    width: 200px;
+    height: 80px;
+    padding: 20px;
+    margin: 18px;
+    
+    
+
+
+}
+
+.four1{
+    float: right;
+    background-color: grey;
+    color: black;
+    border: 5px  ;
+    width: 200px;
+    height: 80px;
+    padding: 20px;
+    margin: 18px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.four2{
+    background-color:grey ;
+    color: black;
+    border: 5px  ;
+    width: 200px;
+    height: 80px;
+    padding: 20px;
+    margin: 18px;
+
+}
+#twenty{
+    background-color: rebeccapurple;
+}
